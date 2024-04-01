@@ -9,11 +9,11 @@ I also occasionally write on my [blog](https://andreaceccarelli.dev).
 - 🖥️ Programming languages: TypeScript, JavaScript / NodeJS, PHP, Lua
 - 🖼️ Frameworks: React, Redux, Express, Fastify, NestJS, TypeORM, Symfony
 - 🗣️ Human languages: English, Spanish, Italian
-- 🤹 Other skills: MongoDB, MySQL
+- 🤹 Other skills: MongoDB, MySQL, Docker
 
 ## 💼 Things I am doing
 
-- Reading [Learn Docker in a month of lunches](https://www.manning.com/books/learn-docker-in-a-month-of-lunches)
+- Reading [Learn Kubernetes in a month of lunches](https://www.manning.com/books/learn-kubernetes-in-a-month-of-lunches)
 
 ## 📖 Things I am learning about
 
