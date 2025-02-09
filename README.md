@@ -2,7 +2,7 @@
 
 I'm Andrea, a self-taught full-stack developer based in Milan.
 
-I also occasionally write on my [blog](https://andreaceccarelli.it) <b>[Under construction]</b>.
+I also occasionally write on my [blog](https://www.andreaceccarelli.it) <b>[Under construction]</b>.
 
 ## 🔧 Things I can do
 
